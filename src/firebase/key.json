@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "rehab-app-download",
+    "private_key_id": "ad867aa5427a7f4eb2c814367d887c3705654e7b",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnP+YUNd5f9HNI\nGsABQanrDlFdS7Mv9knvALa6J89j7ytgwpGDv5RAV2IXMKRIOKlM1kdR922D5IEz\n5Vkb+Un1DVNbXx14HUC1tkaZhUOodtJm+guiqgwGkuFIdshyRGE2TB7LUWCZfT0N\nw5d9UKzrlpc6LiYymBpZwV0X3fa0aFBV5QVX9u0Hh5fE7sov6P/JIaELPZMMYqIl\nrpvH5B3p8bIrtl2nGNSYMb6sEk3uLJCouXN39/DdDOfnFRySdgiaRUZRHfRhYWWK\nv6R2CnYCad7xo7NjMbj7te43xgMmydhGCK0W+oy8NhBZg6wfRQwDR+XZl3MjeCVY\nUk+9QC9DAgMBAAECggEAQuM5Puf0UWfQGwwnsdjy/cCyJZ+6v/m9w8oDShvVw1/J\nd18ZFxmtTrYj0qZvbTrL6qDf0RYlRFREn96fbqKaQ1ja93XosTrxwDpvrcIwNtWe\ne/SQZrOfL5naY0KuE5TpU+/JeQLIoVoG6tRIZ6O2JFoLjQcb26wdDbxZYMwyeB+B\nq5A+91KGtzJKxBralqO2nQsifA+dy5XCq18OX+GlXTnsJNg0J+ePryPBONuhnb1v\nYbWGm3rb0+cqMaDXPdoe4MRLZhjDqJ1mTBLdQ6v3+7g9h67FLogL4TtBvP2vwcm1\nGuyBdFSYEmlz9EdigM7934XO2FohIhT73+y4fMSg8QKBgQDh7p6J3/8wbxHM3/ZL\n8587M3f7xnKnSpP5k2JQuedywm/tra728MuY6YtvpcIor6WiZZj/4jNbeI8oTLNn\nl7IkF0cEH8q90v8edOucwYGTDIR5UIebm/hEH9sG5llQaUeF1IYu+fted7YBnc1e\ndEI/uPeGk7/nYaGGwqhculVwVwKBgQC9gf/XG/wNr6NE8Tj4RcxsEPeSzAJ6gO/7\nXga7s3u6f/xaVYzK8VZ6G5RkWbKYSgrMH8yqMZmdRuz/JCEKBq//1PLZSdbb0wmU\n/n4fqzlnaF3BrUHdPXR3XcSk7/PyrpIE4plTJg9y9e/en1C8WUiMlUpkGKYq7CYl\nHCw9lGY09QKBgDHiQ7LheDCzdVSs5m6inbeuh4FZsZrqRn3GYuC8CzQ1Zg0uWgE/\n7VQXzKecC6B8F7AhioSE5x39Im6dcMcgoT6CvTVV56e93IJXAmab+wYCr4UxmJ9s\n8oXoGq4NUg8FD7umzvG0VCHpgJAezWdbd/0l09Es8iQeVFGyzQWcRp0FAoGAZA2D\nruWGgQ9PKzIUevgXAqM+otF1KYpzqYouEeGkHIZADM2IJQmgN53iDc1Rvpew9a6A\nVwcS7Heq3tYLX4jCWVbr1I7okmzsbS6kFkJHb3IptfysfotYt0DZdp99c455Z3zf\nqIe6tl5kg2wnqxmUdSzI9uoQqS6+wO8L6IM2JxUCgYEAzzS9nzzwCiFHdKEDcLyB\nXaYZnOmpmV7ftxjZwKydGOjRE0Wx8xZl94ptRj1PNjVipLw7HZPsgkhw6XiuwmVe\nNtM3o5+wb0dheMT0XVgQP1Ng/tUjELDXuitbR4X/dvO0o6th1sxZ5cldeY0Twhe1\nEJKLMkUGTTKuatf/Zgxbg8I=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-5lby3@rehab-app-download.iam.gserviceaccount.com",
+    "client_id": "113183752256879967082",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-5lby3%40rehab-app-download.iam.gserviceaccount.com"
+  }
+  

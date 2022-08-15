@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "rehab-app-download",
+    "private_key_id": "bf14af9ee1d916badcc770300394c21cbef387ba",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCPLdiZpTDTcX6U\nFRk+WWaTNJsGzWaVhGu2vvJqKWGoZzjz2n5l/Fw7QUBjIzc/wmOMZXmBfnFF5IJu\nUBPEXBJaJ6CZbR1KOemZDQUzqV3TNzrtD7Ao8UtHrLZmtKkuUxFYDNfyc0xE8SfR\nCjxI3ue9EAcjtgHn7W9AkMt8c3KPK7lh32XqpEfRjC82DABfEK8ROiat96TcZIfH\nxNS8nHGUy7GXFao5fy6tmqNJlluAnZ5q5J2b/yYVABOQoCoIESNkUQ6ghfkmMa4o\ndY+839zDs9omCqKBMPW8vhHL0wfgAt3vENr4eVfUtXxYHdnAgrQB+Lc7rfK+nCFq\nbywLFii5AgMBAAECggEAAfYJuRhzNBx9oiG/kB+PNcEYxjST31bTe7iDrRBtm6TQ\nAvVTh3NcgFOOi0iAjicVPdUeRADdkiySt+o6J6fdL6ETv9Y6HvnKO4QSET2UajIf\n0kfXzMaecdgXQg4oIaI67BW/PE+KHWR7V6G15qwvf2LvUGKL4Wwjw+KzQRfD//+R\nSEz7pAk8vd/TzOyA4GAN05KyEgMvBqENwhJ8UNUVCnAsTO4JKtyy2bAzrVZTtJ+Z\nlix0eJarw0gMpu25+hSHZf8XIliMaLBjf+aw2sixcmqYv9A2J2XgNz1+sN0krke+\nmX2HfExyTXmR+8r+qA2zuLOEImMlz3Bdt88G+UCLwQKBgQDHIeNfjqOjO957Ss7W\nSq+GIBY0OXuW7chj1vzm8wIRdpfpMyx2pOsNjD+Z/+sZVMWL241sZURn0p5O/qrN\nQvZtO467R+/lSx3Dl7bt8Gnpe2VuOiB2zFd/m2n5mrwPudIX4g4CLxRMxPjqDeXB\nXw0ptaRQKcxJ++cslMIAe4MryQKBgQC4EVdSuWBY5UnQy1ALQJ/YMlIbcWB7VgKD\n+S+L4E4Kname96qYOI+l+vEV2G0tKaihTTm3FA7/n1jDNilVvGy7BUa9RaaBV58e\nCpGkNamQsnyoJJj2LnRo/6gVJ/MlDEJohcX3II93lC7iSMyiHUcT1CfWYhUZq/Fu\n7Z+qT1GtcQKBgF/HWvfBQc/nofEnYCkOLzKSCFwCMgG8SSBMbcQfqiUAJ70Q0hgW\n5r/Tb1wBDfFXJtVIOtOiOa6+TUqtjzW/OYv8k4Bc73QYFy7WsDPt6ONWaMkFyEub\nqZJFDEn0NPRTakv2fMpsHpV2QEtDd/j0YP5o0amFES+cq+pzeoSE4+iRAoGAeLBO\nHFyWEtOMec3FVwtxg1VDRuEpDNWRYq0Rgtp48Tb9T9E+Vv7HGWKXjuZQd4tYGSNE\nk4kgaHU3ww+RPLkGZf4IqvOvQCGOoCj3476XxttxJuKQNOKyy2HN+MkwAPuv007b\nRbVgvFw5/X8URbuCrjquQEAha6q07DH8PbQybtECgYBSzFTAC4Cw5/VtdLrFGPhm\nBSXYNyiuF94V/eP7Om7ViaUlApvwR1Ev/UkhNo1PmUGq3CDnN4dVBEUKfA3MplI6\n2l4A3SLYJibmGBybPMFQWpmxoGf+T2AMeG81aFdEPx3YLvwlz7sGING2q2haaDnd\n6/UyYSGziU+cpzIdL3XFSw==\n-----END PRIVATE KEY-----\n",
+    "client_email": "rehab-app-download@appspot.gserviceaccount.com",
+    "client_id": "104155662425848839046",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rehab-app-download%40appspot.gserviceaccount.com"
+  }
+  
